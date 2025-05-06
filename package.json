@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "axios": "^1.9.0",
+    "express": "^5.1.0",
+    "node": "^22.15.0"
+  },
+  "name": "node-js-projects",
+  "version": "1.0.0",
+  "description": "Node Js Projects and Trainings",
+  "main": "New.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalidch79/Node-Js-Projects.git"
+  },
+  "keywords": [
+    "Node",
+    "React",
+    "Js",
+    "Tutorials",
+    "Trainings",
+    "Learning"
+  ],
+  "author": "Babajee Tech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khalidch79/Node-Js-Projects/issues"
+  },
+  "homepage": "https://github.com/khalidch79/Node-Js-Projects#readme"
+}
